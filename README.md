@@ -8,4 +8,7 @@ This repository is for showing how Git and GitHub work
   to make a work simple and clean manner 
 ## use of devops in project
   mention the uses of devoops in project
+  ## another line to commit 
+  use the mentioned commits 
+  this is commen commits have done 
   

@@ -1,20 +1,17 @@
-[1mdiff --git a/README.md b/README.md[m
-[1mindex e5c1d3c..cf9835a 100644[m
-[1m--- a/README.md[m
-[1m+++ b/README.md[m
-[36m@@ -3,5 +3,9 @@[m
- This repository is for showing how Git and GitHub work[m
- [m
- ## Purpose[m
-[31m-[m
-[31m-## why we use this devops[m
-\ No newline at end of file[m
-[32m+[m[32m  to learn the devops in training[m
-[32m+[m[32m## why we use this devops[m
-[32m+[m[32m  to make a work simple and clean manner[m[41m [m
-[32m+[m[32m## use of devops in project[m
-[32m+[m[32m  mention the uses of devoops in project[m
-[41m+  [m
+[1mdiff --git a/README.md b/README.md[[1mindex e5c1d3c..cf9835a 100644[
+[1m--- a/README.md[m
+[1m+++ b/README.m[m
+[36m@@ -3,5 +3,9@@[m
+ This repository is r showing how Git and GitHub work[m
+ [
+ ## Purose[m
+31m-[m
+[31m-## why we use this devops[m\ No newline at end of file[
+[32m[m[32m  to learn the devops in trainin[m
+32m+[m[32m## why we use this devops[m
+[32m+[m[32m  to make a work simple and cleamanner[m[41m [m
+[32m+[m[32m## use of devops in project[m[32m+[m[32m  mention the uses of devoops in project[m
+[41m+[m
 \ No newline at end of file[m
 [1mdiff --git a/humans.txt b/humans.txt[m
 [1mindex 5b037cf..fc1d140 100644[m
