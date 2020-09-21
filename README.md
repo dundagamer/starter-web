@@ -14,3 +14,5 @@ This repository is for showing how Git and GitHub work
 #3 s wjbhdf aw w ak wweewk ago a man was dead in a row of accident wiyh a small vjo;ld chold in coffin wigt  
 ##uses of ther reverse camera application
   it very use full 
+  ## the moto 
+  to get trained in devops
