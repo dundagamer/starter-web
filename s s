@@ -1,0 +1,160 @@
+[33mcommit 28b0b21ef5d6dd50af612f851ea01b370c42f55e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Fri Sep 25 11:04:19 2020 +0530
+
+    added git stash brnch changes
+
+[33mcommit d03d18b3f3bf3978665bf22dfe08b42be7e57ebe[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Tue Sep 22 12:54:22 2020 +0530
+
+    example for stash
+
+[33mcommit e39cce9a371a6b3e19b835b5972f30fa15dc9e7e[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Tue Sep 22 12:54:06 2020 +0530
+
+    example for stash
+
+[33mcommit 1ef341a266b4a0dedc8574b6ff1b8528f6d3cd79[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Tue Sep 22 11:32:02 2020 +0530
+
+    stash changes
+
+[33mcommit 9418dcdb4e59686e600d1f6599274c1d72449786[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Tue Sep 22 11:29:38 2020 +0530
+
+    added stash message in readme
+
+[33mcommit 592df92039b17cf36f91345755f196fe8104e56b[m
+Merge: a56a66e ef666da
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Mon Sep 21 12:39:11 2020 +0530
+
+    fnjksd sudifnsd hfs
+
+[33mcommit a56a66e108f10aa57f4a52e5b0299a2af2526b51[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Mon Sep 21 12:32:44 2020 +0530
+
+    chnages in humans.txt
+
+[33mcommit ef28f8169fbd9cc47a2dbb890c2fae934692d40c[m
+Author: dundagamer <71080832+dundagamer@users.noreply.github.com>
+Date:   Mon Sep 21 12:29:13 2020 +0530
+
+    upodate the changes in
+
+[33mcommit ef666dab1072223d6ca597a865a3d20e3cf6f041[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Mon Sep 21 11:27:31 2020 +0530
+
+    myu changes made on rebase
+
+[33mcommit d8368025585e01952a3fc415e409ff636460013f[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Sun Sep 20 11:54:00 2020 +0530
+
+    my cahnges made on rebase
+
+[33mcommit 252db8c5c3681f797aa3824aca464c14ea2f0e81[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Sun Sep 20 11:49:25 2020 +0530
+
+    my changes made
+
+[33mcommit 94008fcc3d653c91a973395c79ebef72fb79f24b[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Sun Sep 20 11:56:13 2020 +0530
+
+    my changes on master rebase
+
+[33mcommit 2069c09ff23faac77904e10c81e44d3523db4bec[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Sun Sep 20 10:34:33 2020 +0530
+
+    add ing conflicts
+
+[33mcommit aecfc24c758ea35e421ab6b0b9e907afcc109292[m
+Merge: ffc89a0 270e21c
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Sat Sep 19 12:57:07 2020 +0530
+
+    merging develop with master
+
+[33mcommit 270e21c517b392aeb08b8bad655afbed9d9d1d9d[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Sat Sep 19 12:55:49 2020 +0530
+
+    changes had been mande
+
+[33mcommit ffc89a0b757470c14295c21af8f5ddd1b9c6dcb0[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Sat Sep 19 12:42:06 2020 +0530
+
+    fidgbiufd iufiw
+
+[33mcommit 70d16a391aa27100dd31bef3eeaf77f06657d8ca[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Sat Sep 19 12:09:14 2020 +0530
+
+    the compelete of comparssions
+
+[33mcommit 0728bd78173328960011a92ade359a738f46aa08[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Sat Sep 19 11:49:38 2020 +0530
+
+    git repo commits
+
+[33mcommit b46bc163ab4575e73ca27000deba81c732881cd7[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Sat Sep 19 10:55:54 2020 +0530
+
+    my project edit
+
+[33mcommit 450918a003ffcf279f1ba8dbf9acde898a131791[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Thu Sep 17 11:23:07 2020 +0530
+
+    deleating recarvingly
+
+[33mcommit 5ff85536b5513cbb58bb21dc7f16b1dabad5ae10[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Thu Sep 17 11:12:20 2020 +0530
+
+    commitedchage
+
+[33mcommit edd0f3203311425bb6af40447d08f31f2b5dca1f[m
+Author: dundesh.babu <dundesh92@gmail.com>
+Date:   Wed Sep 16 14:14:29 2020 +0530
+
+    commited simpleqwe file to the new repositry
+
+[33mcommit 4beb7f097b54ab7cf08daf17972c3ab14432ae24[m
+Merge: 5c05047 e73f914
+Author: Jason Taylor <jason@jasongtaylor.com>
+Date:   Wed Sep 2 02:39:19 2015 -0400
+
+    Merge pull request #6 from jasongtaylor/feature-readme
+    
+    Adding README file
+
+[33mcommit e73f9147e78331b2ea746dc43de5a44953766a76[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:25:18 2015 -0400
+
+    Adding Purpose section to README
+
+[33mcommit 34f563b40c4c1519026d2e881c75e97728c45502[m
+Author: Jason Taylor <jason@git.training>
+Date:   Wed Sep 2 02:06:05 2015 -0400
+
+    Adding README file
+
+[33mcommit 5c05047e53ecd0913a6f10000014d38829aaecdc[m
+Author: Jason Taylor <jason@screencasts.pro>
+Date:   Thu Sep 11 22:14:19 2014 -0400
+
+    Copying files from initializr project zip file and then creating simple.html as basis for super simple pages
